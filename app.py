@@ -36,6 +36,7 @@ page = st.sidebar.radio(
         "Dashboard",
         "Analytics",
         "Prediction",
+        "Forecasting",
         "Insights"
     ]
 )
