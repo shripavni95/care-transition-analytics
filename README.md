@@ -20,3 +20,8 @@ AI-powered analytics dashboard for monitoring child custody transitions and HHS 
 
 ```bash
 python -m streamlit run app.py
+
+Live App
+
+🔗 Streamlit Deployment:
+https://care-transition-analytics-ix838nqxtscmhtjn94amkb.streamlit.app/
